@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <p>Đây là heading</p>
     <?php echo "WD19316" ?>
 </body>
 </html>
